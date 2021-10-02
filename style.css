@@ -21,7 +21,7 @@ h1 {
 
 .circles-container {
   margin: 10rem auto;
-  width: 50%;
+  width: 100rem;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
