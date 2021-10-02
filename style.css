@@ -91,3 +91,18 @@ h1 {
   cursor: auto;
   background: #f4f4f4;
 }
+
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 55%;
+  }
+  .circles-container {
+    width: 50rem;
+  }
+  .buttons-container {
+    flex-direction: column;
+  }
+  .previous {
+    margin-bottom: 2rem;
+  }
+}
